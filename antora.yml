@@ -1,6 +1,5 @@
 name: devon4node
 title: Devon4node
 version: '1.0'
-start_page: devon4node::Home.adoc
 nav:
 - modules/ROOT/nav.adoc
